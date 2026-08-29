@@ -1,5 +1,4 @@
 # 基于langchain4j实现rag相关测试
-## /basic下
 ### EmbeddingObject 向量嵌入
 ### EmbeddingStoreSearch 向量嵌入与向量检索
 ### DocumentChat 文件向量存储，大数据模型chat，向量检索回复问答
